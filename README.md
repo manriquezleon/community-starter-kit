@@ -1,22 +1,21 @@
-# My GitHub Learning Lab Repository for Community Starter Kit
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+# Team Roundup bot: A Probot App
+this is a  example of a description.
+## What it does
+It's a practice exercice to develop new skills.
 
-## What the project does
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+## Getting started
+Team roundup bot is easy to use:
 
-## The features and benefits of the project
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+## To install the app for your team, visit URL
+Under selected repositories, select all of the apps you would like included in your roundup
+In the root of your team's primary repository, create a config file using the template provided in the getting started guide
+Get ready to reach new heights of productivity and collaboration!
+For more detailed instructions, check out our Getting Started Guide.
 
-## How users can get started with the project
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+## Need help?
+If you need help using this app, we encourage you to:
 
-## Where users can get help with your project
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
-
-## Who maintains and contributes to the project
-
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added a pull request for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+## Check out the Getting Started Guide in the docs folder of this repository
+If you can't find the answer there, open an issue in this repository and add the label question
+## Project maintainers
+This project is maintained by Monalisa Octocat and friends. Use of this project under the MIT License.
